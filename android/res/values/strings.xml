@@ -1,11 +1,14 @@
 <resources>
 
     <string name="app_name">Zopfnmathics</string>
-    <string name="title_section3">Section 3</string>
-    <string name="title_section2">Section 2</string>
-    <string name="title_section1">Section 1</string>
+    <string name="title_section3">Daily Zopfn</string>
+    <string name="title_section2">Train a Zopfn</string>
+    <string name="title_section1">View a Zopfn</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main">ZopfnMathics</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_zopfn">Enter a number</string>
+    <string name="clear">Clear</string>
 
 </resources>
